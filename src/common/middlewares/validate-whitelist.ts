@@ -31,3 +31,4 @@ export class ValidatePayloadMiddleware implements NestMiddleware {
     }
 
   }
+}
